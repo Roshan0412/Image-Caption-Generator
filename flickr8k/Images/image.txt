@@ -1,0 +1,5 @@
+Download Images from Flikr_8k 
+
+link :: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+
+from here take the image file only
